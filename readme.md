@@ -7,6 +7,8 @@ Learning Git commands and version control.
 Working with commits, branches, and merge conflicts.
 ## Hello, Git!
 
+- i'm adding this from freture-branch
+
 This is coming from Abbas kazmi
 =======
 ## welcome to Git!
